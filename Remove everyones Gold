@@ -1,3 +1,6 @@
+
+/* I DIDNT MAKE THIS */
+
 (() => {
     const cheat = (async () => {
         let i = document.createElement('iframe');
