@@ -20,7 +20,7 @@
 <p>1. Click on the Cheat that you wish to use</p>
 
 
-<p>2. Copy and Paste the code into the Developer Console of Blookit</p>
+<p>2. Copy and Paste the code into the Developer Console of Blooket</p>
 
 
 
