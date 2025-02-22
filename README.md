@@ -6,15 +6,21 @@
 
   
   
-<h2>Features of my Cheat</h2>
+<h2>Features of My Cheat</h2>
 
 
 * **Press E to Show and Hide the Menu**
 *   Auto Answer
 *   Highlight Answers
-*   Gets all of the Answers Correct
+*   Get all of the Answers Correct
 *   Even more features!
 
 <h2>How to use</h2>
 
-<p>1. Copy and Paste the code into the Developer Console of Blookit;</p>
+<p>1. Click on the Cheat that you wish to use</p>
+
+
+<p>2. Copy and Paste the code into the Developer Console of Blookit</p>
+
+
+
